@@ -30,7 +30,7 @@ twitter_username:
 github_username:  jrboone
 
 # Build settings
-theme: midnight
+theme: Midnight
 plugins:
   - jekyll-feed
 
