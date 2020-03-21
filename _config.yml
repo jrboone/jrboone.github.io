@@ -30,7 +30,7 @@ twitter_username:
 github_username:  jrboone
 
 # Build settings
-theme: minimal
+theme: jekyll-thene-midnight
 plugins:
   - jekyll-feed
 
