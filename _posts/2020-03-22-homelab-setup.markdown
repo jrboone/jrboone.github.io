@@ -5,8 +5,8 @@
  categories: homelab
 ---
 # The Begining
-    So I have decided to finally start up a small little homelab. This is going to be something to keep me busy while forced to stay in my apartment due to the Coronavirus outbreak.  
-    A Brief description of my current hardware: 
+    So I have decided to finally start up a small little homelab. This is going to be something to keep me busy while forced to stay in my apartment due to the Coronavirus outbreak.
+    A Brief description of my current hardware:
 * HP Z400 Workstation  
   * 12 G Ram  
   * Dual core   
